@@ -1,0 +1,7 @@
+C:\Users\John\source\repos\ITE5230_WindowsAppDev\XYZTravelAgency\XYZTravelAgency-Q5\bin\Debug\data-file.txt
+C:\Users\John\source\repos\ITE5230_WindowsAppDev\XYZTravelAgency\XYZTravelAgency-Q5\bin\Debug\XYZTravelAgency-Q5.exe.config
+C:\Users\John\source\repos\ITE5230_WindowsAppDev\XYZTravelAgency\XYZTravelAgency-Q5\bin\Debug\XYZTravelAgency-Q5.exe
+C:\Users\John\source\repos\ITE5230_WindowsAppDev\XYZTravelAgency\XYZTravelAgency-Q5\bin\Debug\XYZTravelAgency-Q5.pdb
+C:\Users\John\source\repos\ITE5230_WindowsAppDev\XYZTravelAgency\XYZTravelAgency-Q5\obj\Debug\XYZTravelAgency-Q5.csproj.CoreCompileInputs.cache
+C:\Users\John\source\repos\ITE5230_WindowsAppDev\XYZTravelAgency\XYZTravelAgency-Q5\obj\Debug\XYZTravelAgency-Q5.exe
+C:\Users\John\source\repos\ITE5230_WindowsAppDev\XYZTravelAgency\XYZTravelAgency-Q5\obj\Debug\XYZTravelAgency-Q5.pdb

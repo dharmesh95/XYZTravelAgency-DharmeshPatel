@@ -13,7 +13,9 @@ namespace XYZTravelAgency_DharmeshPatel
 {
     public partial class RegisterForm : Form
     {
-        string connectionString = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\Dharmesh\Documents\XYZ-DharmeshPatel.mdf;Integrated Security=True;Connect Timeout=30";
+        // string connectionString = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\Dharmesh\Documents\XYZ-DharmeshPatel.mdf;Integrated Security=True;Connect Timeout=30";
+        string connectionString = @"Data Source = (LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\John\source\repos\ITE5230_WindowsAppDev\XYZTravelAgency\XYZTravelAgency-DharmeshPatel\Database1.mdf;Integrated Security = True";
+
         public RegisterForm()
         {
             InitializeComponent();
